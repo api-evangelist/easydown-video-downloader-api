@@ -1,2 +1,10 @@
-# easydown-video-downloader-api
-Paid REST API and hosted MCP server that parse public single-post media (video/image/carousel) URLs from 11 social platforms (TikTok, Douyin, Toutiao, YouTube, Twitter/X, Instagram, Threads, Xiaohongshu, Bilibili, Kuaishou, Weibo) into normalized media objects. Credit-based, Bearer-token auth.
+# EasyDown Video Downloader API
+
+This profile was removed and the provider delisted.
+
+API Evangelist does not carry video-downloader APIs: the category pulls media from
+platforms (YouTube, TikTok, and the like) in violation of those platforms' terms of
+service, and is piracy-adjacent. This is a content-policy decision, not a judgment on
+the code.
+
+Questions: kin@apievangelist.com
